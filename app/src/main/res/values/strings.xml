@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="main_heading">Sumit\'s Tic Tac Toe</string>
+    <string name="the_grid">The grid</string>
+    <string name="nine_images">Nine_image_places</string>
+    <string name="x_turn">X\'s Turn - Tap to play</string>
+    <string name="restart">Restart</string>
+    <string name="restart_text">Press below button to restart the Game.</string>
+</resources>
